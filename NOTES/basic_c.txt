@@ -1,0 +1,25 @@
+# --> preprocessor directive - it will be processed first
+        
+    BOILER PLATE CODE
+        #include<stio.h>
+        int main()
+        {
+
+            return 0;
+        }
+
+Why return 0; ??
+-confirms the success of the program
+-otherwise some miscellineous value
+
+why not void main() intead of int main()?
+-
+
+
+identifier
+- no spaces
+- no special char except '_'
+- not start with number
+- case sensitive
+- shouldn't be a keyword
+- 
