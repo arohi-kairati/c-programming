@@ -5,7 +5,7 @@
 
 int main()
 {
-    char msg[] = "AROHI KAIRATI";
+    char msg[] = "I LOVE BLUE";
     int l = strlen(msg);
     for(int i = 0; i < l; i++)
     {
