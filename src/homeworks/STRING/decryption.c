@@ -1,4 +1,4 @@
-//DECRYPTION of keypad code
+//DECRYPTION of keypad code.
 
 #include<stdio.h>
 #include<string.h>
@@ -189,4 +189,5 @@ int main()
             c = 0;
         }
     }
+    return 0;
 }
