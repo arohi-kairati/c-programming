@@ -4,7 +4,7 @@
 
 int main()
 {
-    int arr[] = {6, 7, 8, 9, 10, 1, 2, 3, 4, 5};
+    int arr[] = {5, 6, 7, 8, 9, 10, 1, 2, 3, 4};
     int k, n;
     int size = sizeof(arr) / sizeof(arr[0]);
     int c[size];

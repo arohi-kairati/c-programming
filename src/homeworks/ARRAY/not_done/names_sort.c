@@ -26,6 +26,6 @@ int main()
         for(int j = 0; j < 8; j++)
         {
             printf("%c", names[i][j]);
-        printf(" ");0
+        printf(" ");
     }
 }

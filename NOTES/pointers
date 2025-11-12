@@ -1,0 +1,4 @@
+- flat pointer(for 1d array)
+  *p = arr; or = &arr[0]
+- array pointer(for 2d array)
+  (*p) = arr; or = &arr[0][0];
