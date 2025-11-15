@@ -4,11 +4,11 @@
 
 int main()
 {
-    int arr[] = {2, 3, 4, 5, -2, -1, 9, -7};
+    int arr[] = {2, 3, 4, 5, -2, -1, 0, 0};
     int close_z = arr[0] + arr[1], sum, first, sec;
-    for(int i = 0; i < 7; i++)
+    for(int i = 0; i < 8; i++)
     {
-        for(int j = i+1; j < 9; j++)
+        for(int j = i+1; j < 8; j++)
         {
             sum = arr[i] + arr[j];
             if(sum < 0)
